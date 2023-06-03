@@ -1,0 +1,1 @@
+This basically walked through the python language and its usefulness. Then also highlighted the summary and purpose of each chapters
