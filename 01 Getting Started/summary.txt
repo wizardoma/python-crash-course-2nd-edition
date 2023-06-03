@@ -1,0 +1,3 @@
+This chapter merely focused on a very simple introduction to python by creating a single file.
+
+It also included some tutorial on how to install the language on various operating systems
