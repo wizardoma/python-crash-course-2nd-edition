@@ -1,0 +1,8 @@
+This chapter walked me through basic python syntax.
+
+I was able to learn how to use:
+1. Variables
+2. Strings
+3. Numbers
+4. Comments
+5. Python best pratices
