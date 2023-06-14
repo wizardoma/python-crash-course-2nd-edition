@@ -1,0 +1,1 @@
+This chapter led an introduction to lists and how to do basic tasks with them
