@@ -1,0 +1,1 @@
+Learned how to use conditional statements in Python. Learned about Boolean, greater than, less than, equality etc.

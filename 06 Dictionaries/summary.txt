@@ -1,0 +1,1 @@
+This was a very interesting chapter which dealt with how to use Dictionaries and how they are represented in python.
